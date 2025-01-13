@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/f92cfc01ff284041b300bd479989958f/artifacts
+end_time: 1736782534607
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: f92cfc01ff284041b300bd479989958f
+run_name: suave-shark-782
+run_uuid: f92cfc01ff284041b300bd479989958f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736782525902
+status: 3
+tags: []
+user_id: masan

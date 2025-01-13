@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/0/acd7e492046a4832a2a795c14f80e973/artifacts
+end_time: 1736779293382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acd7e492046a4832a2a795c14f80e973
+run_name: brawny-hound-82
+run_uuid: acd7e492046a4832a2a795c14f80e973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736779292748
+status: 3
+tags: []
+user_id: masan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/0/b316e2afd4f743db86775960e226cf4c/artifacts
+end_time: 1736774002413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b316e2afd4f743db86775960e226cf4c
+run_name: righteous-mink-134
+run_uuid: b316e2afd4f743db86775960e226cf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736774001340
+status: 3
+tags: []
+user_id: masan

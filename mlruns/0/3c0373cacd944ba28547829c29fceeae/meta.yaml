@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/0/3c0373cacd944ba28547829c29fceeae/artifacts
+end_time: 1736774696621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c0373cacd944ba28547829c29fceeae
+run_name: gaudy-grub-998
+run_uuid: 3c0373cacd944ba28547829c29fceeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736774696323
+status: 3
+tags: []
+user_id: masan
