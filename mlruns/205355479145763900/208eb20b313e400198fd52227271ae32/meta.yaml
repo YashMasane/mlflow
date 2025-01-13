@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/208eb20b313e400198fd52227271ae32/artifacts
+end_time: 1736788296061
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 208eb20b313e400198fd52227271ae32
+run_name: handsome-fawn-786
+run_uuid: 208eb20b313e400198fd52227271ae32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788295983
+status: 3
+tags: []
+user_id: masan

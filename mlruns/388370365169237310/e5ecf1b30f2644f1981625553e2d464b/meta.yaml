@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/e5ecf1b30f2644f1981625553e2d464b/artifacts
+end_time: 1736786821608
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: e5ecf1b30f2644f1981625553e2d464b
+run_name: useful-mink-171
+run_uuid: e5ecf1b30f2644f1981625553e2d464b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736786809182
+status: 3
+tags: []
+user_id: masan

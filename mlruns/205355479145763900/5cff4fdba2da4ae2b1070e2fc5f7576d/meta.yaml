@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/5cff4fdba2da4ae2b1070e2fc5f7576d/artifacts
+end_time: 1736788296218
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 5cff4fdba2da4ae2b1070e2fc5f7576d
+run_name: angry-lark-421
+run_uuid: 5cff4fdba2da4ae2b1070e2fc5f7576d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296155
+status: 3
+tags: []
+user_id: masan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/00dfd579a4a84927994f463efe7814ef/artifacts
+end_time: 1736788123846
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: 00dfd579a4a84927994f463efe7814ef
+run_name: traveling-squid-783
+run_uuid: 00dfd579a4a84927994f463efe7814ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788123764
+status: 3
+tags: []
+user_id: masan

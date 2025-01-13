@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/66f6befe26ea4139be8356872ccee83d/artifacts
+end_time: 1736788295717
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 66f6befe26ea4139be8356872ccee83d
+run_name: fortunate-koi-956
+run_uuid: 66f6befe26ea4139be8356872ccee83d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788295638
+status: 3
+tags: []
+user_id: masan

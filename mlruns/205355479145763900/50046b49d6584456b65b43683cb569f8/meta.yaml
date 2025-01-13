@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/50046b49d6584456b65b43683cb569f8/artifacts
+end_time: 1736788296140
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 50046b49d6584456b65b43683cb569f8
+run_name: kindly-stork-448
+run_uuid: 50046b49d6584456b65b43683cb569f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296077
+status: 3
+tags: []
+user_id: masan

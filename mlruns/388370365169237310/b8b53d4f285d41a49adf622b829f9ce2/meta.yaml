@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/b8b53d4f285d41a49adf622b829f9ce2/artifacts
+end_time: 1736788124003
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: b8b53d4f285d41a49adf622b829f9ce2
+run_name: hilarious-sloth-349
+run_uuid: b8b53d4f285d41a49adf622b829f9ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788123925
+status: 3
+tags: []
+user_id: masan

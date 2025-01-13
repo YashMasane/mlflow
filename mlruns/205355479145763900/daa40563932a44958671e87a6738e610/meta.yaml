@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/daa40563932a44958671e87a6738e610/artifacts
+end_time: 1736788295797
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: daa40563932a44958671e87a6738e610
+run_name: victorious-hare-55
+run_uuid: daa40563932a44958671e87a6738e610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788295733
+status: 3
+tags: []
+user_id: masan

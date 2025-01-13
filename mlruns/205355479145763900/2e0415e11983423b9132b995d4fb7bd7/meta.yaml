@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/2e0415e11983423b9132b995d4fb7bd7/artifacts
+end_time: 1736788296297
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 2e0415e11983423b9132b995d4fb7bd7
+run_name: melodic-wolf-954
+run_uuid: 2e0415e11983423b9132b995d4fb7bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296234
+status: 3
+tags: []
+user_id: masan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/100da8287859485ea060c3d7b58f4c8f/artifacts
+end_time: 1736788124481
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: 100da8287859485ea060c3d7b58f4c8f
+run_name: sassy-jay-883
+run_uuid: 100da8287859485ea060c3d7b58f4c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124411
+status: 3
+tags: []
+user_id: masan

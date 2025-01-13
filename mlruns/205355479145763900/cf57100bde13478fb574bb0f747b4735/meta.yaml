@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/cf57100bde13478fb574bb0f747b4735/artifacts
+end_time: 1736788296625
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: cf57100bde13478fb574bb0f747b4735
+run_name: gentle-foal-284
+run_uuid: cf57100bde13478fb574bb0f747b4735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296547
+status: 3
+tags: []
+user_id: masan

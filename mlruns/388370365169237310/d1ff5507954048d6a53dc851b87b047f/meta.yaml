@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/d1ff5507954048d6a53dc851b87b047f/artifacts
+end_time: 1736788123925
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: d1ff5507954048d6a53dc851b87b047f
+run_name: chill-crane-228
+run_uuid: d1ff5507954048d6a53dc851b87b047f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788123846
+status: 3
+tags: []
+user_id: masan

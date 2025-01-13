@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/e4024d62dc3d4c1c987a1794aada7748/artifacts
+end_time: 1736788296453
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: e4024d62dc3d4c1c987a1794aada7748
+run_name: honorable-swan-805
+run_uuid: e4024d62dc3d4c1c987a1794aada7748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296396
+status: 3
+tags: []
+user_id: masan

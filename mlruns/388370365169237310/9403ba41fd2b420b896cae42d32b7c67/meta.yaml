@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/9403ba41fd2b420b896cae42d32b7c67/artifacts
+end_time: 1736788124631
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: 9403ba41fd2b420b896cae42d32b7c67
+run_name: legendary-frog-49
+run_uuid: 9403ba41fd2b420b896cae42d32b7c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124568
+status: 3
+tags: []
+user_id: masan

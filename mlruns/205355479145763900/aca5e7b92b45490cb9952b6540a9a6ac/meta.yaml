@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/aca5e7b92b45490cb9952b6540a9a6ac/artifacts
+end_time: 1736788295889
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: aca5e7b92b45490cb9952b6540a9a6ac
+run_name: wistful-shoat-376
+run_uuid: aca5e7b92b45490cb9952b6540a9a6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788295813
+status: 3
+tags: []
+user_id: masan

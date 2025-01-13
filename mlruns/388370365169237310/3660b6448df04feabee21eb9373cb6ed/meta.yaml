@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/3660b6448df04feabee21eb9373cb6ed/artifacts
+end_time: 1736788124732
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: 3660b6448df04feabee21eb9373cb6ed
+run_name: handsome-pig-260
+run_uuid: 3660b6448df04feabee21eb9373cb6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124648
+status: 3
+tags: []
+user_id: masan

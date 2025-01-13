@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/f66c7a7fad374d63bcb3eee2db4fa822/artifacts
+end_time: 1736788124160
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: f66c7a7fad374d63bcb3eee2db4fa822
+run_name: traveling-skunk-217
+run_uuid: f66c7a7fad374d63bcb3eee2db4fa822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124082
+status: 3
+tags: []
+user_id: masan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/acf7783846604d4c9053a4e68e3da4c8/artifacts
+end_time: 1736788296531
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: acf7783846604d4c9053a4e68e3da4c8
+run_name: legendary-hare-394
+run_uuid: acf7783846604d4c9053a4e68e3da4c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296468
+status: 3
+tags: []
+user_id: masan

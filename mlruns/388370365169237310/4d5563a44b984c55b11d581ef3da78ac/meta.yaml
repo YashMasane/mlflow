@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/4d5563a44b984c55b11d581ef3da78ac/artifacts
+end_time: 1736788124238
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: 4d5563a44b984c55b11d581ef3da78ac
+run_name: big-penguin-890
+run_uuid: 4d5563a44b984c55b11d581ef3da78ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124175
+status: 3
+tags: []
+user_id: masan

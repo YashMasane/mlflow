@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/301975e98d72473fb6ac7c19d9198264/artifacts
+end_time: 1736788303646
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 301975e98d72473fb6ac7c19d9198264
+run_name: tasteful-koi-841
+run_uuid: 301975e98d72473fb6ac7c19d9198264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788290867
+status: 3
+tags: []
+user_id: masan

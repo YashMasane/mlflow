@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/fc0bd8e8490141c5a5d6d5d57a81c575/artifacts
+end_time: 1736788124317
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: fc0bd8e8490141c5a5d6d5d57a81c575
+run_name: secretive-shoat-245
+run_uuid: fc0bd8e8490141c5a5d6d5d57a81c575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124238
+status: 3
+tags: []
+user_id: masan

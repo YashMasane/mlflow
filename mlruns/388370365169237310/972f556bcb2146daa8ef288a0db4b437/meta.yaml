@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/388370365169237310/972f556bcb2146daa8ef288a0db4b437/artifacts
+end_time: 1736788124082
+entry_point_name: ''
+experiment_id: '388370365169237310'
+lifecycle_stage: active
+run_id: 972f556bcb2146daa8ef288a0db4b437
+run_name: fearless-colt-727
+run_uuid: 972f556bcb2146daa8ef288a0db4b437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788124003
+status: 3
+tags: []
+user_id: masan

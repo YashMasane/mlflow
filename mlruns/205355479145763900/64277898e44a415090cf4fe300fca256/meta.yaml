@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/masan/OneDrive/Desktop/DS_projects/mlflow/mlruns/205355479145763900/64277898e44a415090cf4fe300fca256/artifacts
+end_time: 1736788296374
+entry_point_name: ''
+experiment_id: '205355479145763900'
+lifecycle_stage: active
+run_id: 64277898e44a415090cf4fe300fca256
+run_name: bold-shrike-632
+run_uuid: 64277898e44a415090cf4fe300fca256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736788296312
+status: 3
+tags: []
+user_id: masan
